@@ -1,4 +1,4 @@
-# 📸 UI Screenshots — Ecommerce-Buzz
+## 📸 UI Screenshots — Ecommerce-Buzz
 # 🏠 Homepage 
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/b7305c50-0882-4d74-b621-3cf56b279a5a" />
 # 🔐 Login Page
