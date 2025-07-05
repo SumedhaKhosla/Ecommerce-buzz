@@ -46,19 +46,7 @@
 
 ------------------------------------------------
 
-## Running the Project Locally
-
-## Backend Setup
-
-cd backend
-npm install
-npm run dev
-
-## Frontend Setup
-
-cd frontend
-npm install
-npm run dev
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/783ef313-2d10-48bc-9879-76589c703071" />
 
 Once both are running, open the frontend at:  http://localhost:5173
 
