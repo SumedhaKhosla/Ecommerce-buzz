@@ -41,21 +41,8 @@
 
 ## 📁 Project Structure
 
-ecommerce-store/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middlewares/
-│   ├── lib/
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/79ec972e-d307-47fd-a272-e3af662781f2" />
+
 
 ------------------------------------------------
 
